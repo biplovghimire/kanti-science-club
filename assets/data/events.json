@@ -1,0 +1,36 @@
+{
+  "upcoming": [
+    {
+      "title": "Annual Science Exhibition 2026",
+      "date": "2026-09-12",
+      "time": "10:00 AM – 4:00 PM",
+      "venue": "Kanti Secondary School Ground, Butwal-04",
+      "description": "Our flagship yearly exhibition showcasing student projects in physics, chemistry, biology and robotics, open to parents and the public.",
+      "image": "assets/images/events/exhibition-2026.jpg"
+    },
+    {
+      "title": "Robotics Workshop: Intro to Arduino",
+      "date": "2026-08-20",
+      "time": "2:00 PM – 5:00 PM",
+      "venue": "Computer Lab, Kanti Secondary School",
+      "description": "Hands-on workshop for club members covering microcontroller basics, sensors, and simple automation projects.",
+      "image": "assets/images/events/arduino-workshop.jpg"
+    }
+  ],
+  "past": [
+    {
+      "title": "Inter-School Science Quiz Competition",
+      "date": "2026-03-05",
+      "venue": "Kanti Secondary School Auditorium",
+      "description": "Hosted teams from five schools across Rupandehi in a knockout-style science quiz covering physics, chemistry and general science.",
+      "image": "assets/images/events/quiz-2026.jpg"
+    },
+    {
+      "title": "Astronomy Night",
+      "date": "2025-11-14",
+      "venue": "School Rooftop",
+      "description": "Telescope observation session for members to view the moon and visible planets, followed by a short talk on constellations.",
+      "image": "assets/images/events/astronomy-night.jpg"
+    }
+  ]
+}

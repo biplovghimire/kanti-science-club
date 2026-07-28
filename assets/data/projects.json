@@ -1,0 +1,51 @@
+{
+  "years": [
+    {
+      "year": "2026",
+      "projects": [
+        {
+          "id": "KSC-PRJ-2026-01",
+          "title": "Line-Following Robot",
+          "members": ["Full Name", "Full Name"],
+          "description": "An IR-sensor based autonomous robot that follows a marked path, built as an introduction to embedded control for club members.",
+          "image": "assets/images/projects/line-follower.jpg",
+          "demo_video": "https://dgdhsh.com"
+        },
+        {
+          "id": "KSC-PRJ-2026-02",
+          "title": "Water Quality Tester",
+          "members": ["Full Name"],
+          "description": "A low-cost sensor kit that measures pH and turbidity of local water samples, built for a community awareness campaign.",
+          "image": "assets/images/projects/water-tester.jpg",
+          "demo_video": ""
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "projects": [
+        {
+          "id": "KSC-PRJ-2025-01",
+          "title": "Solar-Powered Water Pump Model",
+          "members": ["Full Name", "Full Name", "Full Name"],
+          "description": "A working scale model demonstrating solar-powered irrigation, presented at the Annual Science Exhibition.",
+          "image": "assets/images/projects/solar-pump.jpg",
+          "demo_video": ""
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "projects": [
+        {
+          "id": "KSC-PRJ-2025-01",
+          "title": "Solar-Powered Water Pump Model",
+          "members": ["Full Name", "Full Name", "Full Name"],
+          "description": "A working scale model demonstrating solar-powered irrigation, presented at the Annual Science Exhibition.",
+          "image": "assets/images/projects/solar-pump.jpg",
+          "demo_video": ""
+        }
+      ]
+    }
+  ]
+}

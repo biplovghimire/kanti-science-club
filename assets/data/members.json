@@ -1,0 +1,124 @@
+{
+  "executive_committee": [
+    {
+      "id": "KSC-EC-01",
+      "name": "Full Name",
+      "position": "President",
+      "image": "assets/images/members/president.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": {
+        "facebook": "https://facebook.com/",
+        "instagram": "https://instagram.com/",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": "KSC-EC-02",
+      "name": "Full Name",
+      "position": "Vice President",
+      "image": "assets/images/members/vice-president.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": {
+        "facebook": "https://facebook.com/",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": "KSC-EC-03",
+      "name": "Full Name",
+      "position": "General Secretary",
+      "image": "assets/images/members/general-secretary.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": {
+        "facebook": "",
+        "instagram": "https://instagram.com/",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": "KSC-EC-04",
+      "name": "Full Name",
+      "position": "Treasurer",
+      "image": "assets/images/members/treasurer.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    }
+  ],
+  "executive_members": [
+    {
+      "id": "KSC-EM-01",
+      "name": "Full Name",
+      "position": "Event Coordinator",
+      "image": "assets/images/members/em-01.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" }
+    },
+    {
+      "id": "KSC-EM-02",
+      "name": "Full Name",
+      "position": "Publicity Head",
+      "image": "assets/images/members/em-02.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" }
+    },
+    {
+      "id": "KSC-EM-03",
+      "name": "Full Name",
+      "position": "Technical Lead",
+      "image": "assets/images/members/em-03.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" }
+    },
+    {
+      "id": "KSC-EM-04",
+      "name": "Full Name",
+      "position": "Documentation Head",
+      "image": "assets/images/members/em-04.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" }
+    }
+  ],
+  "teacher_advisors": [
+    {
+      "id": "KSC-TA-01",
+      "name": "Teacher Full Name",
+      "position": "Chief Advisor — Physics Dept.",
+      "image": "assets/images/members/advisor-01.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" }
+    },
+    {
+      "id": "KSC-TA-02",
+      "name": "Teacher Full Name",
+      "position": "Co-Advisor — Chemistry Dept.",
+      "image": "assets/images/members/advisor-02.jpg",
+      "phone": "+977-98XXXXXXXX",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" }
+    }
+  ],
+  "alumni_hall_of_fame": [
+    {
+      "id": "KSC-AL-01",
+      "name": "Alumni Full Name",
+      "position": "Former President, Batch 2022",
+      "image": "assets/images/members/alumni-01.jpg",
+      "phone": "",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" },
+      "contribution": "Led the club to its first National Science Fair award and mentored two later generations of executive members."
+    },
+    {
+      "id": "KSC-AL-02",
+      "name": "Alumni Full Name",
+      "position": "Founding Member, Batch 2020",
+      "image": "assets/images/members/alumni-02.jpg",
+      "phone": "",
+      "social": { "facebook": "", "instagram": "", "linkedin": "" },
+      "contribution": "One of the founding members who helped establish the club's constitution and first lab equipment fund."
+    }
+  ]
+}
