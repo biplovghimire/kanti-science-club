@@ -8,8 +8,8 @@
           "title": "Line-Following Robot",
           "members": ["Full Name", "Full Name"],
           "description": "An IR-sensor based autonomous robot that follows a marked path, built as an introduction to embedded control for club members.",
-          "image": "assets/images/projects/line-follower.jpg",
-          "demo_video": "https://dgdhsh.com"
+          "image": "assets/images/projects/line-follower.png",
+          "demo_video": ""
         },
         {
           "id": "KSC-PRJ-2026-02",
