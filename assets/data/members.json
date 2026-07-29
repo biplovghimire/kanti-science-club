@@ -4,7 +4,7 @@
       "id": "KSC-EC-01",
       "name": "Dipin Ghimire",
       "position": "President",
-      "image": "assets/images/members/president.jpg",
+      "image": "../assets/images/members/president.jpg",
       "phone": "+977-98XXXXXXXX",
       "email": "dipinghimire@gmail.com",
       "social": {
@@ -17,7 +17,7 @@
       "id": "KSC-EC-02",
       "name": "Shristi Sapkota",
       "position": "Vice President",
-      "image": "assets/images/members/vice-president.jpg",
+      "image": "../assets/images/members/vice-president.jpg",
       "phone": "+977-98XXXXXXXX",
       "email": "",
       "social": {
@@ -30,7 +30,7 @@
       "id": "KSC-EC-03",
       "name": "Binay Xettri",
       "position": "Secretary",
-      "image": "assets/images/members/general-secretary.jpg",
+      "image": "../assets/images/members/general-secretary.jpg",
       "phone": "+977-98XXXXXXXX",
       "email": "",
       "social": {
@@ -43,7 +43,7 @@
       "id": "KSC-EC-04",
       "name": "Shraddha Karki",
       "position": "Vice Secretary",
-      "image": "assets/images/members/general-secretary.jpg",
+      "image": "../assets/images/members/general-secretary.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -55,7 +55,7 @@
       "id": "KSC-EC-05",
       "name": "Sushant Gyawali",
       "position": "Treasurer",
-      "image": "assets/images/members/general-secretary.jpg",
+      "image": "../assets/images/members/general-secretary.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -67,7 +67,7 @@
       "id": "KSC-EC-06",
       "name": "Ekta Adhikari",
       "position": "Vice Treasurer",
-      "image": "assets/images/members/general-secretary.jpg",
+      "image": "../assets/images/members/general-secretary.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -79,7 +79,7 @@
       "id": "KSC-EC-07",
       "name": "Bishwonath Pandey",
       "position": "Morning Program Coordinator",
-      "image": "assets/images/members/general-secretary.jpg",
+      "image": "../assets/images/members/general-secretary.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -91,7 +91,7 @@
       "id": "KSC-EC-08",
       "name": "Full Name",
       "position": "Day Program Coordinator",
-      "image": "assets/images/members/treasurer.jpg",
+      "image": "../assets/images/members/treasurer.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -103,7 +103,7 @@
       "id": "KSC-EC-09",
       "name": "Sachin Lamsal",
       "position": "Media Manager",
-      "image": "assets/images/members/treasurer.jpg",
+      "image": "../assets/images/members/treasurer.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -115,7 +115,7 @@
       "id": "KSC-EC-10",
       "name": "Sanchit Ghimire",
       "position": "Content Creater",
-      "image": "assets/images/members/treasurer.jpg",
+      "image": "../assets/images/members/treasurer.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -127,7 +127,7 @@
       "id": "KSC-EC-11",
       "name": "Subodh Bhattarai",
       "position": "Vice Content Creator",
-      "image": "assets/images/members/treasurer.jpg",
+      "image": "../assets/images/members/treasurer.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -139,7 +139,7 @@
       "id": "KSC-EC-12",
       "name": "Asbin Karki ",
       "position": "Community Manager",
-      "image": "assets/images/members/treasurer.jpg",
+      "image": "../assets/images/members/treasurer.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -151,7 +151,7 @@
       "id": "KSC-EC-13",
       "name": "Bishwas Bhusal",
       "position": "Research manager",
-      "image": "assets/images/members/treasurer.jpg",
+      "image": "../assets/images/members/treasurer.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": {
         "facebook": "",
@@ -165,7 +165,7 @@
       "id": "KSC-EM-01",
       "name": "Sagar Raut",
       "position": "",
-      "image": "assets/images/members/em-01.jpg",
+      "image": "../assets/images/members/em-01.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -173,7 +173,7 @@
       "id": "KSC-EM-02",
       "name": "Aayush Darlami",
       "position": "",
-      "image": "assets/images/members/em-02.jpg",
+      "image": "../assets/images/members/em-02.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -181,7 +181,7 @@
       "id": "KSC-EM-03",
       "name": "Sulavi Bashyal",
       "position": "",
-      "image": "assets/images/members/em-03.jpg",
+      "image": "../assets/images/members/em-03.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "https://facebook.com/", "instagram": "", "linkedin": "" }
     },
@@ -189,7 +189,7 @@
       "id": "KSC-EM-04",
       "name": "Kushal Tandan",
       "position": "",
-      "image": "assets/images/members/em-04.jpg",
+      "image": "../assets/images/members/em-04.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -197,7 +197,7 @@
       "id": "KSC-EM-05",
       "name": "Aashika Kc",
       "position": "",
-      "image": "assets/images/members/em-05.jpg",
+      "image": "../assets/images/members/em-05.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -205,7 +205,7 @@
       "id": "KSC-EM-06",
       "name": "Rikki Shrees",
       "position": "",
-      "image": "assets/images/members/em-06.jpg",
+      "image": "../assets/images/members/em-06.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -213,7 +213,7 @@
       "id": "KSC-EM-07",
       "name": "Prithivi Aryal",
       "position": "",
-      "image": "assets/images/members/em-07.jpg",
+      "image": "../assets/images/members/em-07.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -221,7 +221,7 @@
       "id": "KSC-EM-08",
       "name": "Aaditya K.c",
       "position": "",
-      "image": "assets/images/members/em-08.jpg",
+      "image": "../assets/images/members/em-08.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -229,7 +229,7 @@
       "id": "KSC-EM-09",
       "name": "Saugat Adhikari",
       "position": "",
-      "image": "assets/images/members/em-09.jpg",
+      "image": "../assets/images/members/em-09.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -237,7 +237,7 @@
       "id": "KSC-EM-10",
       "name": "Biplov Ghimire",
       "position": "",
-      "image": "assets/images/members/em-10.jpg",
+      "image": "../assets/images/members/em-10.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -245,7 +245,7 @@
       "id": "KSC-EM-11",
       "name": "Shubham KoirI",
       "position": "",
-      "image": "assets/images/members/em-11.jpg",
+      "image": "../assets/images/members/em-11.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -253,7 +253,7 @@
       "id": "KSC-EM-12",
       "name": "Apshon Chhiral",
       "position": "",
-      "image": "assets/images/members/em-12.jpg",
+      "image": "../assets/images/members/em-12.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -261,7 +261,7 @@
       "id": "KSC-EM-13",
       "name": "Rezon Acharya",
       "position": "",
-      "image": "assets/images/members/em-13.jpg",
+      "image": "../assets/images/members/em-13.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -269,7 +269,7 @@
       "id": "KSC-EM-14",
       "name": "Samrat Kunwal",
       "position": "",
-      "image": "assets/images/members/em-14.jpg",
+      "image": "../assets/images/members/em-14.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -277,7 +277,7 @@
       "id": "KSC-EM-15",
       "name": "Ritiz Raj Shrestha",
       "position": "",
-      "image": "assets/images/members/em-15.jpg",
+      "image": "../assets/images/members/em-15.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -285,7 +285,7 @@
       "id": "KSC-EM-16",
       "name": "Aishwarya Adhikari",
       "position": "",
-      "image": "assets/images/members/em-16.jpg",
+      "image": "../assets/images/members/em-16.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -293,7 +293,7 @@
       "id": "KSC-EM-17",
       "name": "Kirpa Aacharya",
       "position": "",
-      "image": "assets/images/members/em-17.jpg",
+      "image": "../assets/images/members/em-17.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     }
@@ -303,7 +303,7 @@
       "id": "KSC-TA-01",
       "name": "Mohan Bhattrai",
       "position": "Chief Advisor — Physics Dept.",
-      "image": "assets/images/members/advisor-01.jpg",
+      "image": "../assets/images/members/advisor-01.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     },
@@ -311,7 +311,7 @@
       "id": "KSC-TA-02",
       "name": "Deepak Bashyal",
       "position": "Co-Advisor — Chemistry Dept.",
-      "image": "assets/images/members/advisor-02.jpg",
+      "image": "../assets/images/members/advisor-02.jpg",
       "phone": "+977-98XXXXXXXX",
       "social": { "facebook": "", "instagram": "", "linkedin": "" }
     }
@@ -321,7 +321,7 @@
       "id": "KSC-AL-01",
       "name": "Alumni Full Name",
       "position": "Former President, Batch 2022",
-      "image": "assets/images/members/alumni-01.jpg",
+      "image": "../assets/images/members/alumni-01.jpg",
       "phone": "",
       "social": { "facebook": "", "instagram": "", "linkedin": "" },
       "contribution": "Led the club to its first National Science Fair award and mentored two later generations of executive members."
@@ -330,7 +330,7 @@
       "id": "KSC-AL-02",
       "name": "Alumni Full Name",
       "position": "Founding Member, Batch 2020",
-      "image": "assets/images/members/alumni-02.jpg",
+      "image": "../assets/images/members/alumni-02.jpg",
       "phone": "",
       "social": { "facebook": "", "instagram": "", "linkedin": "" },
       "contribution": "One of the founding members who helped establish the club's constitution and first lab equipment fund."

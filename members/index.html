@@ -3,30 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Events — Kanti Science Club</title>
-<meta name="description" content="Upcoming and past events organized by Kanti Science Club, Kanti Secondary School.">
+<title>Members — Kanti Science Club</title>
+<meta name="description" content="Meet the Executive Committee, Executive Members, Teacher Advisors and Alumni Hall of Fame of Kanti Science Club.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="../assets/css/style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-<link rel="icon" href="assets/images/logo.png">
+<link rel="icon" href="../assets/images/logo.png">
 </head>
 <body>
 
 <header class="site-header" id="siteHeader">
   <nav class="nav">
-    <a href="index.html" class="brand">
-      <img src="assets/images/logo.png" alt="Kanti Science Club logo" class="brand-mark">
+    <a href="../" class="brand">
+      <img src="../assets/images/logo.png" alt="Kanti Science Club logo" class="brand-mark">
       <span>Kanti Science Club<small>Kanti Secondary School</small></span>
     </a>
     <ul class="nav-links">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="members.html">Members</a></li>
-      <li><a href="events.html" aria-current="page">Events</a></li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="../">Home</a></li>
+      <li><a href="../about/">About</a></li>
+      <li><a href="./" aria-current="page">Members</a></li>
+      <li><a href="../events/">Events</a></li>
+      <li><a href="../projects/">Projects</a></li>
+      <li><a href="../contact/">Contact</a></li>
     </ul>
     <div class="nav-actions">
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
@@ -43,29 +43,54 @@
 
 <main>
   <div class="page-header container">
-    <span class="tag">What's happening</span>
-    <h1>Events</h1>
-    <p class="lead">From weekly workshops to our Annual Science Exhibition — here's what Kanti Science Club has planned, and what we've already run.</p>
+    <span class="tag">Our People</span>
+    <h1>Members</h1>
+    <p class="lead">The people behind Kanti Science Club — from the executive committee running things day to day, to the teacher advisors guiding us, to the alumni who built what we stand on.</p>
   </div>
 
   <section>
     <div class="container">
-      <div class="tabs" role="tablist">
-        <button class="tab-btn active" data-target="upcomingPanel" role="tab" aria-selected="true">Upcoming Events</button>
-        <button class="tab-btn" data-target="pastPanel" role="tab" aria-selected="false">Past Events</button>
-      </div>
 
-      <div class="tab-panel active" id="upcomingPanel">
-        <div class="event-list" id="upcomingEventsList">
-          <p class="loading-row">Loading events…</p>
+      <div class="member-tier">
+        <div class="member-tier-head">
+          <h2>Executive Committee</h2>
+          <span class="tag">Leadership</span>
+        </div>
+        <div class="member-grid" id="executiveCommitteeGrid">
+          <p class="loading-row">Loading members…</p>
         </div>
       </div>
 
-      <div class="tab-panel" id="pastPanel">
-        <div class="event-list" id="pastEventsList">
-          <p class="loading-row">Loading events…</p>
+      <div class="member-tier">
+        <div class="member-tier-head">
+          <h2>Executive Members</h2>
+          <span class="tag">Core Team</span>
+        </div>
+        <div class="member-grid" id="executiveMembersGrid">
+          <p class="loading-row">Loading members…</p>
         </div>
       </div>
+
+      <div class="member-tier">
+        <div class="member-tier-head">
+          <h2>Teacher Advisors</h2>
+          <span class="tag">Faculty</span>
+        </div>
+        <div class="member-grid" id="teacherAdvisorsGrid">
+          <p class="loading-row">Loading members…</p>
+        </div>
+      </div>
+
+      <div class="member-tier">
+        <div class="member-tier-head">
+          <h2>Alumni Hall of Fame</h2>
+          <span class="tag">Past contributors</span>
+        </div>
+        <div class="member-grid" id="alumniGrid">
+          <p class="loading-row">Loading members…</p>
+        </div>
+      </div>
+
     </div>
   </section>
 </main>
@@ -80,11 +105,11 @@
       <div>
         <h4>Explore</h4>
         <ul>
-          <li><a href="about.html">About the Club</a></li>
-          <li><a href="members.html">Members</a></li>
-          <li><a href="events.html">Events</a></li>
-          <li><a href="projects.html">Projects</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="../about/">About the Club</a></li>
+          <li><a href="./">Members</a></li>
+          <li><a href="../events/">Events</a></li>
+          <li><a href="../projects/">Projects</a></li>
+          <li><a href="../contact/">Contact</a></li>
         </ul>
       </div>
       <div>
@@ -119,7 +144,7 @@
   </div>
 </footer>
 
-<script src="assets/js/main.js"></script>
-<script src="assets/js/render-events.js"></script>
+<script src="../assets/js/main.js"></script>
+<script src="../assets/js/render-members.js"></script>
 </body>
 </html>

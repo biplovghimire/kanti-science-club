@@ -82,7 +82,7 @@
     el.innerHTML = members.map((m) => card(m, opts)).join("");
   }
 
-  fetch("assets/data/members.json")
+  fetch("../assets/data/members.json")
     .then((res) => {
       if (!res.ok) throw new Error("Failed to load members.json");
       return res.json();

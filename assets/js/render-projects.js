@@ -51,7 +51,7 @@
 
   const container = document.getElementById("projectsByYear");
 
-  fetch("assets/data/projects.json")
+  fetch("../assets/data/projects.json")
     .then((res) => {
       if (!res.ok) throw new Error("Failed to load projects.json");
       return res.json();
@@ -68,7 +68,7 @@
     .catch((err) => {
       console.error(err);
       if (container) {
-        container.innerHTML = `<p class="empty-row">Could not load project data. If you're viewing this file directly (file://), run a local server — see README.md.</p>`;
+        container.innerHTML = `<p class="empty-row">Could not load project data. Try again later!</p>`;
       }
     });
 })();

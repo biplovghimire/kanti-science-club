@@ -38,7 +38,7 @@
     el.innerHTML = events.map((e) => card(e, isPast)).join("");
   }
 
-  fetch("assets/data/events.json")
+  fetch("../assets/data/events.json")
     .then((res) => {
       if (!res.ok) throw new Error("Failed to load events.json");
       return res.json();
@@ -50,7 +50,7 @@
     .catch((err) => {
       console.error(err);
       document.querySelectorAll(".event-list").forEach((el) => {
-        el.innerHTML = `<p class="empty-row">Could not load event data. If you're viewing this file directly (file://), run a local server — see README.md.</p>`;
+        el.innerHTML = `<p class="empty-row">Could not load event data. Try again later!</p>`;
       });
     });
 
