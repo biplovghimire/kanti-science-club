@@ -60,7 +60,7 @@
       if (!container) return;
       const years = (data.years || []).slice().sort((a, b) => b.year.localeCompare(a.year));
       if (years.length === 0) {
-        container.innerHTML = `<p class="empty-row">No projects listed yet — add entries to projects.json.</p>`;
+        container.innerHTML = `<p class="empty-row">No projects listed yet !</p>`;
         return;
       }
       container.innerHTML = years.map(yearBlock).join("");

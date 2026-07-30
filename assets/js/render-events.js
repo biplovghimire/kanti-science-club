@@ -32,7 +32,7 @@
     const el = document.getElementById(containerId);
     if (!el) return;
     if (!events || events.length === 0) {
-      el.innerHTML = `<p class="empty-row">No events listed yet — add entries to events.json.</p>`;
+      el.innerHTML = `<p class="empty-row">No events listed yet !</p>`;
       return;
     }
     el.innerHTML = events.map((e) => card(e, isPast)).join("");
@@ -40,7 +40,7 @@
 
   fetch("../assets/data/events.json")
     .then((res) => {
-      if (!res.ok) throw new Error("Failed to load events.json");
+      if (!res.ok) throw new Error("Failed to load data !");
       return res.json();
     })
     .then((data) => {

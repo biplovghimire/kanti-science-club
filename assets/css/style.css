@@ -1187,6 +1187,37 @@ html[data-theme="dark"] .contact-icon{ color: var(--teal); }
 
 }
 
+/* Explore links */
+
+.site-footer .explore-links ul li a{
+
+    color:#2563eb;
+    transition:.25s ease;
+
+}
+
+.site-footer .explore-links ul li a:hover{
+
+    color:#1d4ed8;
+    padding-left:5px;
+
+}
+
+/* Email link */
+
+.site-footer a[href^="mailto:"]{
+
+    color:#2563eb;
+
+}
+
+.site-footer a[href^="mailto:"]:hover{
+
+    color:#1d4ed8;
+    text-decoration:underline;
+
+}
+
 
 
 /* Contact */
